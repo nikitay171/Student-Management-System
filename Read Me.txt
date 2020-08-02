@@ -1,0 +1,3 @@
+made by Nikita Yadav
+https://github.com/nikitay171/Student-Management-System.git
+Student Management System
